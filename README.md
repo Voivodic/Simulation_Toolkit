@@ -1,6 +1,6 @@
 # Simulation_Toolkit
 
-Some useful codes in the study of halos and voids in N-body simulations. The codes here can find halo and voids in a dark matter simulations, compute their density and velocity profiles, stack them, and compute the linear biases using the halo/void-matter and the auto power spectrum.
+Some useful codes in the study of halos and voids in N-body simulations. The codes here can find halo and voids in dark matter simulations, compute their density and velocity profiles, stack them, and compute the linear biases using the halo/void-matter and the auto power spectrum.
 
 This folder contains the following codes:
 
@@ -18,7 +18,7 @@ This folder contains the following codes:
 
 -Stacking.c: This code makes the stack of the profiles compute above for a given binning;
 
--PowerSpectrum.c: This code compute the cross and auto power spectra for the halos, voids, and matter.
+-PowerSpectrum.c: This code computes the cross and auto power spectra for the halos, voids, and matter.
 
 The complete list of input options for each code is given by the code when started without any input.
 
